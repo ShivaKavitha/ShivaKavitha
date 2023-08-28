@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShivaKavitha
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on people with similar interest
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shivakavitha/" target="_blank">ShivaKavitha</a>
